@@ -1,6 +1,6 @@
 # Hi, there!
-<img  align = 'left' width = '47%' src= "https://github-readme-stats.vercel.app/api?username=rinsarmu&show_icons=true&theme=radical" />
-<img  align = 'right' width = '47%' src= "https://github-readme-stats.vercel.app/api/top-langs/?username=rinsarmu" />
+<img  align = 'left' width = '47%'  height= '300px' src= "https://github-readme-stats.vercel.app/api?username=rinsarmu&show_icons=true&theme=radical" />
+<img  align = 'left' width = '40%' height= '300px' src= "https://github-readme-stats.vercel.app/api/top-langs/?username=rinsarmu" />
 <!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rinsarmu)](https://github.com/rinsarmu/github-readme-stats" /> -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rinsarmu)](https://github.com/rinsarmu/github-readme-stats) -->
 <!-- - 👋 Hi, I’m Robera Insarmu (@rinsarmu)
